@@ -19,6 +19,9 @@
    <br> 
    <a href=""> <img alt="github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
 </p>
+<div align='center'>
+<img src='gifka.gif' height="220">
+</div>
  
  <h5 align="center">
    <i>⚡️ In IT & sports, as in life, the essence is to push beyond your limits. It's not about competing with others. The ability to surpass yourself is the true victory.⚡️</i>
